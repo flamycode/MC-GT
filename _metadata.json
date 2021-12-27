@@ -1,0 +1,1402 @@
+[
+  {
+    "name": "FreakyPunk #1",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "dna": "6a11912156d7bb6daef30f922b1290a05b52f989",
+    "edition": 1,
+    "date": 1640563228123,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Ghetto Thunder"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #2",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "dna": "e862536c1e64f09ac6538e1a20125249e80ceb39",
+    "edition": 2,
+    "date": 1640563228184,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Ghetto Thunder"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Mustache"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #3",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/3.png",
+    "dna": "4e225ef772aa9f6c702d985e77a2df052ed339d8",
+    "edition": 3,
+    "date": 1640563228218,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Ghetto Thunder"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #4",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "dna": "2f7a580fddcc3805d798b9103be4f328a9f4a80d",
+    "edition": 4,
+    "date": 1640563228252,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Ghetto Thunder"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #5",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "dna": "7507fe4c9ff69b8fb1840e7600c8828a54589c61",
+    "edition": 5,
+    "date": 1640563228287,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Ghetto Thunder"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #6",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/6.png",
+    "dna": "ef4ed86819af1fd80b48296fc85cf68f26b5a55e",
+    "edition": 6,
+    "date": 1640563228322,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Ghetto Thunder"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #7",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/7.png",
+    "dna": "792b1856c760391122705e31b9154c5a262817e4",
+    "edition": 7,
+    "date": 1640563228358,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Ghetto Thunder"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Mustache"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #8",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/8.png",
+    "dna": "4a4546cfb8f19e97ae9cd35e5ebef3fecf969a6c",
+    "edition": 8,
+    "date": 1640563228395,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Ghetto Thunder"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Mustache"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #9",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/9.png",
+    "dna": "1c485e63f023138890c8a11ced1f676c62472f38",
+    "edition": 9,
+    "date": 1640563228429,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Ghetto Thunder"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Elf Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #10",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/10.png",
+    "dna": "fb4161ea8058ce83f4014473bf8f578565263d27",
+    "edition": 10,
+    "date": 1640563228464,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Ghetto Thunder"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Red Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #11",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/11.png",
+    "dna": "e4ea59292d8f9c5b6d84ddeea8a008f22535ebf5",
+    "edition": 11,
+    "date": 1640563228499,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Ghetto Thunder"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Elf Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #12",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/12.png",
+    "dna": "caf5c6e2e7401213b2b76fcf4575734e0e0273e7",
+    "edition": 12,
+    "date": 1640563228535,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Ghetto Thunder"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #13",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/13.png",
+    "dna": "3aaba6f4ae0894aa700a6df559aee2783dab1caf",
+    "edition": 13,
+    "date": 1640563228569,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Ghetto Thunder"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Mustache"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #14",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/14.png",
+    "dna": "22078dddfdeca29d772752bbe47b13a08a5bd4fa",
+    "edition": 14,
+    "date": 1640563228604,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Ghetto Thunder"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #15",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/15.png",
+    "dna": "d3011ff990cd12be13b3dc2a2ef4e664573e2695",
+    "edition": 15,
+    "date": 1640563228754,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Ghetto Thunder"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Mustache"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #16",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/16.png",
+    "dna": "931b6b3852616e88ef24162b18e8184bf7d6905d",
+    "edition": 16,
+    "date": 1640563228788,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Ghetto Thunder"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #17",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/17.png",
+    "dna": "111763754b2c031bd269a916a2f0b950eb2279dd",
+    "edition": 17,
+    "date": 1640563228823,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Ghetto Thunder"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #18",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/18.png",
+    "dna": "ef10746d713cbbfb02b4523d39dbae9700b2f88b",
+    "edition": 18,
+    "date": 1640563228857,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Ghetto Thunder"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Mustache"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Red Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #19",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/19.png",
+    "dna": "c13206bffa08f4561580b0ca5af7e3d151bbc1f0",
+    "edition": 19,
+    "date": 1640563228892,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Ghetto Thunder"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #20",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/20.png",
+    "dna": "19e5d1dd2a9f3c668cad7ac41a05dcc288f78b6f",
+    "edition": 20,
+    "date": 1640563228926,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Ghetto Thunder"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Mustache"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #21",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/21.png",
+    "dna": "0f8c933350a80de44f56d2f6b90045982e515dc3",
+    "edition": 21,
+    "date": 1640563228961,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Ghetto Thunder"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Elf Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #22",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/22.png",
+    "dna": "511da607da8907274429f8ce65a606533580fdb4",
+    "edition": 22,
+    "date": 1640563228996,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Ghetto Thunder"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Mustache"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Red Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Elf Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #23",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/23.png",
+    "dna": "f9445eee10d16cc925c466de5b5bd11364c076bb",
+    "edition": 23,
+    "date": 1640563229031,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Ghetto Thunder"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Mustache"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #24",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/24.png",
+    "dna": "cbb9ffeb9b6d6d10185c2b27438f39c45fd88b3b",
+    "edition": 24,
+    "date": 1640563229535,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Ghetto Thunder"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Mustache"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #25",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/25.png",
+    "dna": "63ea5542b7d4a6dcdabd51e39904237014895bec",
+    "edition": 25,
+    "date": 1640563229573,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Ghetto Thunder"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #26",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/26.png",
+    "dna": "d1da7cb2a3d78accb351c9f833f70a52f563b4e3",
+    "edition": 26,
+    "date": 1640563229613,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Ghetto Thunder"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Red Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #27",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/27.png",
+    "dna": "096644b6e26e9e0a7a0edad512758339466139ec",
+    "edition": 27,
+    "date": 1640563229647,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Ghetto Thunder"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #28",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/28.png",
+    "dna": "43830fc7d122bf4090ba4b57eaa09498d559d311",
+    "edition": 28,
+    "date": 1640563229681,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Ghetto Thunder"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Mustache"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #29",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/29.png",
+    "dna": "7f0d9a2bc674c95d5e722ec90e66bad9b029c7ff",
+    "edition": 29,
+    "date": 1640563229715,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Ghetto Thunder"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Mustache"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Red Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #30",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/30.png",
+    "dna": "ed436dbc411bc59b0c981429ce62aa2960589708",
+    "edition": 30,
+    "date": 1640563229748,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Ghetto Thunder"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #31",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/31.png",
+    "dna": "b22f0db6bd196a5793bc1dee2f777763e7113e88",
+    "edition": 31,
+    "date": 1640563229812,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Ghetto Thunder"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #32",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/32.png",
+    "dna": "ffef3000ad16ee6d7343223e32ff9aab9cf9a4c4",
+    "edition": 32,
+    "date": 1640563229846,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Ghetto Thunder"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Mustache"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #33",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/33.png",
+    "dna": "018e680c98cbe4522c67afd157c526094b169960",
+    "edition": 33,
+    "date": 1640563229880,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Ghetto Thunder"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #34",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/34.png",
+    "dna": "60f8c43164cc189d15d2df377650b57f787259b3",
+    "edition": 34,
+    "date": 1640563229916,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Ghetto Thunder"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Red Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #35",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/35.png",
+    "dna": "78c162cfe6ff25942de6bddc5eb74bd698db41e1",
+    "edition": 35,
+    "date": 1640563229950,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Ghetto Thunder"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Elf Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #36",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/36.png",
+    "dna": "fd58529c0144f4e8464db74bc6b23b00899ad24c",
+    "edition": 36,
+    "date": 1640563229986,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Ghetto Thunder"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Beard"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Red Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #37",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/37.png",
+    "dna": "1aa48dd7ad67c99f438b3151e7208722700afc34",
+    "edition": 37,
+    "date": 1640563230020,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Ghetto Thunder"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Mustache"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Elf Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #38",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/38.png",
+    "dna": "be06e3126a9480f628f587b6046c43d586bbcbb5",
+    "edition": 38,
+    "date": 1640563230054,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Ghetto Thunder"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #39",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/39.png",
+    "dna": "04150286f68bcfa183a75ba586d89ee39d2b391d",
+    "edition": 39,
+    "date": 1640563230089,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Ghetto Thunder"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Mustache"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Red Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #40",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/40.png",
+    "dna": "039ea9364395b6b5c33d67946c1064f65a1b51fc",
+    "edition": 40,
+    "date": 1640563230124,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Ghetto Thunder"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Mustache"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Elf Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]
